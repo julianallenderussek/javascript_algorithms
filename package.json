@@ -1,0 +1,22 @@
+{
+  "name": "algorytms_javascript",
+  "version": "1.0.0",
+  "description": "javascript algorithms paractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "nodemon": "nodemon"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Julian Allende",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
